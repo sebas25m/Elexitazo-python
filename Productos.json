@@ -1,0 +1,780 @@
+{
+    "categorias": [
+        {
+            "nombre": "Frutas y vegetales",
+            "IVA":  0,
+            "subcategorias": [
+                {
+                    "nombre": "Frutas",
+                    "Productos": [
+                        {
+                            "nombre": "Manzana",
+                            "descripcion": "1 unidad",
+                            "precio": 4800
+                        },
+                        {
+                            "nombre": "Banano",
+                            "descripcion": "1 unidad",
+                            "precio": 700
+                        },
+                        {
+                            "nombre": "Malla de limones",
+                            "descripcion": "1500 gr",
+                            "precio": 3500
+                        },
+                        {
+                            "nombre": "Pina golden",
+                            "descripcion": "1 unidad",
+                            "precio": 13000
+                        },
+                        {
+                            "nombre": "Mango",
+                            "descripcion": "1 unidad",
+                            "precio": 6100
+                        },
+                        {
+                            "nombre": "Naranja tangelo",
+                            "descripcion": "1 unidad",
+                            "precio": 2300
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Vegetales",
+                    "Productos": [
+                        {
+                            "nombre": "Tomate",
+                            "descripcion": "1 unidad",
+                            "precio": 1700
+                        },
+                        {
+                            "nombre": "Cebolla",
+                            "descripcion": "1 unidad",
+                            "precio": 2000
+                        },
+                        {
+                            "nombre": "Aguacate",
+                            "descripcion": "1 unidad",
+                            "precio": 1600
+                        },
+                        {
+                            "nombre": "Pimenton",
+                            "descripcion": "1 unidad",
+                            "precio": 800
+                        },
+                        {
+                            "nombre": "Platano",
+                            "descripcion": "1 unidad",
+                            "precio": 2200
+                        },
+                        {
+                            "nombre": "Ajo",
+                            "descripcion": "10 gr",
+                            "precio": 4400
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Tuberculos",
+                    "Productos": [
+                        {
+                            "nombre": "Papa pastusa",
+                            "descripcion": "1 kg",
+                            "precio": 12000
+                        },
+                        {
+                            "nombre": "Papa criolla",
+                            "descripcion": "500 gr",
+                            "precio": 8500
+                        },
+                        {
+                            "nombre": "Yuca",
+                            "descripcion": "500gr",
+                            "precio": 5600
+                        },
+                        {
+                            "nombre": "Arracacha",
+                            "descripcion": "250 gr",
+                            "precio": 2700
+                        },
+                        {
+                            "nombre": "Guatila",
+                            "descripcion": "250 gr",
+                            "precio": 4500
+                        },
+                        {
+                            "nombre": "Cubios",
+                            "descripcion": "1 unidad",
+                            "precio": 2300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Carnicos",
+            "subcategorias": [
+                {
+                    "nombre": "Carne de res",
+                    "Productos": [
+                        {
+                            "nombre": "Corte rib-eye",
+                            "descripcion": "1 Kg",
+                            "precio": 30000
+                        },
+                        {
+                            "nombre": "Milanesa de res",
+                            "descripcion": "500 gr",
+                            "precio": 15500
+                        },
+                        {
+                            "nombre": "Costillas de res",
+                            "descripcion": "1 kilo",
+                            "precio": 25000
+                        },
+                        {
+                            "nombre": "Falda de res",
+                            "descripcion": "500 gr",
+                            "precio": 14900
+                        },
+                        {
+                            "nombre": "Pata de res",
+                            "descripcion": "1 kilo",
+                            "precio": 12800
+                        },
+                        {
+                            "nombre": "Churrasco de res",
+                            "descripcion": "500 gr",
+                            "precio": 15800
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Carnes de cerdo",
+                    "Productos": [
+                        {
+                            "nombre": "Costillas de cerdo ahumadas",
+                            "descripcion": "10 unidades",
+                            "precio": 25900
+                        },
+                        {
+                            "nombre": "Costillas de cerdo sin ahumar",
+                            "descripcion": "10 unidades",
+                            "precio": 20900
+                        },
+                        {
+                            "nombre": "Tocino de cerdo",
+                            "descripcion": "500 gr",
+                            "precio": 20000
+                        },
+                        {
+                            "nombre": "Chuleta de cerdo",
+                            "descripcion": "500 gr",
+                            "precio": 14000
+                        },
+                        {
+                            "nombre": "Lomo de cerdo",
+                            "descripcion": "500 gr",
+                            "precio": 9900
+                        },
+                        {
+                            "nombre": "Milanesa de cerdo",
+                            "descripcion": "500 gr",
+                            "precio": 15500
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pollo",
+                    "Productos": [
+                        {
+                            "nombre": "Pollo despresado",
+                            "descripcion": "1 kg",
+                            "precio": 35900
+                        },
+                        {
+                            "nombre": "Milanessa de pollo",
+                            "descripcion": "500 gr",
+                            "precio": 12500
+                        },
+                        {
+                            "nombre": "Alitas de pollo",
+                            "descripcion": "1 kg",
+                            "precio": 18900
+                        },
+                        {
+                            "nombre": "Pechuga de pollo",
+                            "descripcion": "500 gr",
+                            "precio": 12000
+                        },
+                        {
+                            "nombre": "Perniles de pollo",
+                            "descripcion": "500 gr",
+                            "precio": 12000
+                        },
+                        {
+                            "nombre": "Huevos",
+                            "descripcion": "30 unidades",
+                            "precio": 24.900
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pescados y marsicos",
+                    "Productos": [
+                        {
+                            "nombre": "Filete de salmon",
+                            "descripcion": "500 gr",
+                            "precio": 35900
+                        },
+                        {
+                            "nombre": "Trucha",
+                            "descripcion": "500 gr",
+                            "precio": 5100
+                        },
+                        {
+                            "nombre": "Filete de tilapia",
+                            "descripcion": "500 gr",
+                            "precio": 9200
+                        },
+                        {
+                            "nombre": "Camaron tigre",
+                            "descripcion": "15 unidades - 500 gr",
+                            "precio": 35100
+                        },
+                        {
+                            "nombre": "Palmitos",
+                            "descripcion": "1 kg",
+                            "precio": 34900
+                        },
+                        {
+                            "nombre": "Langostinos",
+                            "descripcion": "500 gr",
+                            "precio": 35200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Lacteos",
+            "subcategorias": [
+                {
+                    "nombre": "Leche y derivados",
+                    "Productos": [
+                        {
+                            "nombre": "Leche corriente",
+                            "descripcion": "1 L",
+                            "precio": 3900
+                        },
+                        {
+                            "nombre": "Paca de leche corriente",
+                            "descripcion": "6 unidades",
+                            "precio": 23900
+                        },
+                        {
+                            "nombre": "Yogur de mora",
+                            "descripcion": "1 L",
+                            "precio": 4300
+                        },
+                        {
+                            "nombre": "Yogurts surtidos",
+                            "descripcion": "10 unidades - 100 ml c/u",
+                            "precio": 15900
+                        },
+                        {
+                            "nombre": "Kumis",
+                            "descripcion": "1 L",
+                            "precio": 7500
+                        },
+                        {
+                            "nombre": "Leche deslactosada",
+                            "descripcion": "1 L",
+                            "precio": 4800
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Quesos y mantequillas",
+                    "Productos": [
+                        {
+                            "nombre": "Queso campesino",
+                            "descripcion": "Bloque - 250 gr",
+                            "precio": 6800
+                        },
+                        {
+                            "nombre": "Queso Campesino",
+                            "descripcion": "tajado 250gr",
+                            "precio": 7500
+                        },
+                        {
+                            "nombre": "Mantequilla sin sal",
+                            "descripcion": "400 gr",
+                            "precio": 5200
+                        },
+                        {
+                            "nombre": "Mantequilla con sal",
+                            "descripcion": "400 gr",
+                            "precio": 6000
+                        },
+                        {
+                            "nombre": "Queso mozzarella",
+                            "descripcion": "tajado - 250 gr",
+                            "precio": 12900
+                        },
+                        {
+                            "nombre": "Queso descremado",
+                            "descripcion": "bloque - 250 gr",
+                            "precio": 8000
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Lacteos especiales",
+                    "Productos": [
+                        {
+                            "nombre": "Leche de almendras",
+                            "descripcion": "1 L",
+                            "precio": 7000
+                        },
+                        {
+                            "nombre": "Leche de soja",
+                            "descripcion": "1 L",
+                            "precio": 6200
+                        },
+                        {
+                            "nombre": "Leche de cabra",
+                            "descripcion": "1 L",
+                            "precio": 9200
+                        },
+                        {
+                            "nombre": "Yogurt griego",
+                            "descripcion": "100 mL",
+                            "precio": 4500
+                        },
+                        {
+                            "nombre": "Yogurt bajo en grasa",
+                            "descripcion": "1 L",
+                            "precio": 7000
+                        },
+                        {
+                            "nombre": "Mantequilla de mani",
+                            "descripcion": "250 gr",
+                            "precio": 12900
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Enlatados y embutidos",
+            "subcategorias": [
+                {
+                    "nombre": "Enlatados",
+                    "Productos": [
+                        {
+                            "nombre": "Atún en agua",
+                            "descripcion": "200 gr",
+                            "precio": 4900
+                        },
+                        {
+                            "nombre": "Atún de aceite",
+                            "descripcion": "200 gr",
+                            "precio": 5200
+                        },
+                        {
+                            "nombre": "Aceitunas",
+                            "descripcion": "250 gr",
+                            "precio": 9200
+                        },
+                        {
+                            "nombre": "Duraznos en almíbar",
+                            "descripcion": "820 gr",
+                            "precio": 10900
+                        },
+                        {
+                            "nombre": "Frijoles enlatados",
+                            "descripcion": "400 gr",
+                            "precio": 7700
+                        },
+                        {
+                            "nombre": "Maiz tierno",
+                            "descripcion": "300 gr",
+                            "precio": 9900
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Embutidos",
+                    "Productos": [
+                        {
+                            "nombre": "Salchichas de cerdo",
+                            "descripcion": "1 docena",
+                            "precio": 13600
+                        },
+                        {
+                            "nombre": "Salchichas hot-dog",
+                            "descripcion": "8 unidades",
+                            "precio": 15800
+                        },
+                        {
+                            "nombre": "Chorizos",
+                            "descripcion": "6 unidades",
+                            "precio": 17400
+                        },
+                        {
+                            "nombre": "Morcilla",
+                            "descripcion": "7 unidades",
+                            "precio": 14300
+                        },
+                        {
+                            "nombre": "Chorizos para coctel",
+                            "descripcion": "8 unidades",
+                            "precio": 14500
+                        },
+                        {
+                            "nombre": "Salchichas del rancho",
+                            "descripcion": "5 unidades",
+                            "precio": 6200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Snacks",
+            "subcategorias": [
+                {
+                    "nombre": "Frituras",
+                    "Productos": [
+                        {
+                            "nombre": "Papas fritas",
+                            "descripcion": "120 gr",
+                            "precio": 3500
+                        },
+                        {
+                            "nombre": "Todo rico",
+                            "descripcion": "120 gr",
+                            "precio": 2800
+                        },
+                        {
+                            "nombre": "De todito",
+                            "descripcion": "125 gr",
+                            "precio": 3200
+                        },
+                        {
+                            "nombre": "Papas fritas",
+                            "descripcion": "380 gr",
+                            "precio": 7500
+                        },
+                        {
+                            "nombre": "Todo rico",
+                            "descripcion": "380 gr",
+                            "precio": 8200
+                        },
+                        {
+                            "nombre": "De todito",
+                            "descripcion": "400 gr",
+                            "precio": 8000
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Confiteria",
+                    "Productos": [
+                        {
+                            "nombre": "Chocolatina jetix",
+                            "descripcion": "144 gr",
+                            "precio": 7900
+                        },
+                        {
+                            "nombre": "Chocolatina jumbex",
+                            "descripcion": "144 gr",
+                            "precio": 8500
+                        },
+                        {
+                            "nombre": "Gomitas trulutox",
+                            "descripcion": "100 gr",
+                            "precio": 3400
+                        },
+                        {
+                            "nombre": "Chicles tihalls",
+                            "descripcion": "10 unidades",
+                            "precio": 4500
+                        },
+                        {
+                            "nombre": "Paquete de moritas",
+                            "descripcion": "20 unidades",
+                            "precio": 9300
+                        },
+                        {
+                            "nombre": "Grajeas",
+                            "descripcion": "150 gr",
+                            "precio": 6200
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Frutos secos",
+                    "Productos": [
+                        {
+                            "nombre": "Arándanos",
+                            "descripcion": "500 gr",
+                            "precio": 6700
+                        },
+                        {
+                            "nombre": "Mani",
+                            "descripcion": "300 gr",
+                            "precio": 5100
+                        },
+                        {
+                            "nombre": "Avellanas",
+                            "descripcion": "150 gr",
+                            "precio": 5900
+                        },
+                        {
+                            "nombre": "Almendras",
+                            "descripcion": "200 gr",
+                            "precio": 5100
+                        },
+                        {
+                            "nombre": "Nueces",
+                            "descripcion": "180 gr",
+                            "precio": 4300
+                        },
+                        {
+                            "nombre": "Anacardos (cashews)",
+                            "descripcion": "250 gr",
+                            "precio": 10900
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Bebidas",
+            "subcategorias": [
+                {
+                    "nombre": "Licores",
+                    "Productos": [
+                        {
+                            "nombre": "Six-pack cerveza BBC",
+                            "descripcion": "6 unidades",
+                            "precio": 20000
+                        },
+                        {
+                            "nombre": "Aguardiente antioqueño",
+                            "descripcion": "500 mL",
+                            "precio": 45000
+                        },
+                        {
+                            "nombre": "Aguardiente nectar",
+                            "descripcion": "1 L",
+                            "precio": 65000
+                        },
+                        {
+                            "nombre": "Absolute vodka",
+                            "descripcion": "500 mL",
+                            "precio": 88000
+                        },
+                        {
+                            "nombre": "Whiskey Buchanan's 18 años",
+                            "descripcion": "1 L",
+                            "precio": 200000
+                        },
+                        {
+                            "nombre": "Whiskey old parr",
+                            "descripcion": "300 mL",
+                            "precio": 110000
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Refrescos",
+                    "Productos": [
+                        {
+                            "nombre": "Coca-cola",
+                            "descripcion": "1.5 L",
+                            "precio": 6700
+                        },
+                        {
+                            "nombre": "Panela limonada",
+                            "descripcion": "200 gr",
+                            "precio": 1200
+                        },
+                        {
+                            "nombre": "Panelimonada",
+                            "descripcion": "150 gr",
+                            "precio": 1000
+                        },
+                        {
+                            "nombre": "UP-seven",
+                            "descripcion": "1.5L",
+                            "precio": 4900
+                        },
+                        {
+                            "nombre": "Gaseosa Generica",
+                            "descripcion": "1 L",
+                            "precio": 3000
+                        },
+                        {
+                            "nombre": "Kola Roman",
+                            "descripcion": "1.5 L",
+                            "precio": 4500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Cuidado personal",
+            "subcategorias": [
+                {
+                    "nombre": "Productos de belleza",
+                    "Productos": [
+                        {
+                            "nombre": "Paleta de sombras",
+                            "descripcion": "8 colores",
+                            "precio": 230000
+                        },
+                        {
+                            "nombre": "Paleta de sombras",
+                            "descripcion": "6 colores",
+                            "precio": 193900
+                        },
+                        {
+                            "nombre": "Fijador para cejas",
+                            "descripcion": "7 mL",
+                            "precio": 123900
+                        },
+                        {
+                            "nombre": "Pomada para cejas",
+                            "descripcion": "color negro",
+                            "precio": 13000
+                        },
+                        {
+                            "nombre": "Pestañina",
+                            "descripcion": "100 mL",
+                            "precio": 9800
+                        },
+                        {
+                            "nombre": "Corrector",
+                            "descripcion": "100 mL",
+                            "precio": 15900
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Aseo personal",
+                    "Productos": [
+                        {
+                            "nombre": "Desodorante",
+                            "descripcion": "2 unidades - 120 gr c/u",
+                            "precio": 14900
+                        },
+                        {
+                            "nombre": "Jabon corporal",
+                            "descripcion": "6 unidades - 30gr c/u",
+                            "precio": 12900
+                        },
+                        {
+                            "nombre": "Jabón para manos",
+                            "descripcion": "500 mL",
+                            "precio": 15900
+                        },
+                        {
+                            "nombre": "Bloqueador UV",
+                            "descripcion": "50 FPS - 700mL",
+                            "precio": 27000
+                        },
+                        {
+                            "nombre": "Crema para manos",
+                            "descripcion": "1 L",
+                            "precio": 31000
+                        },
+                        {
+                            "nombre": "Talco para pies",
+                            "descripcion": "300 gr",
+                            "precio": 9800
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Productos para bebe",
+                    "Productos": [
+                        {
+                            "nombre": "Pañales",
+                            "descripcion": "64 unidades",
+                            "precio": 78000
+                        },
+                        {
+                            "nombre": "Pañitos humedos",
+                            "descripcion": "120 unidades",
+                            "precio": 45900
+                        },
+                        {
+                            "nombre": "Crema no. 4",
+                            "descripcion": "100 mL",
+                            "precio": 15000
+                        },
+                        {
+                            "nombre": "Pañitos secos",
+                            "descripcion": "60 unidades",
+                            "precio": 39900
+                        },
+                        {
+                            "nombre": "Fórmula para bebes",
+                            "descripcion": "1 kg",
+                            "precio": 47000
+                        },
+                        {
+                            "nombre": "Cereal de arroz",
+                            "descripcion": "500 gr",
+                            "precio": 5600
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Aseo del hogar",
+            "subcategorias": [
+                {
+                    "nombre": "Limpieza general para el hogar",
+                    "Productos": [
+                        {
+                            "nombre": "Jabon limpia pisos",
+                            "descripcion": "1 L",
+                            "precio": 9800
+                        },
+                        {
+                            "nombre": "Jabon en polvo",
+                            "descripcion": "4 kg",
+                            "precio": 34800
+                        },
+                        {
+                            "nombre": "Papel higiénico",
+                            "descripcion": "12 unidades",
+                            "precio": 49800
+                        },
+                        {
+                            "nombre": "Jabon en barra",
+                            "descripcion": "2 unidades",
+                            "precio": 19900
+                        },
+                        {
+                            "nombre": "Jabon liquido",
+                            "descripcion": "1.5 L",
+                            "precio": 54900
+                        },
+                        {
+                            "nombre": "Limpia vidrios",
+                            "descripcion": "1 L",
+                            "precio": 16700
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
